@@ -2,18 +2,17 @@
 Vityarthi project on an Expense Tracker 
 Expense Tracker (Python CLI)
 This is a simple command-line interface application for tracking personal expenses; it's entirely written in Python. It allows users to add, view, summarize, and delete expense records.
-________________________________________
 Setup and Usage
 Requirements
 This application requires Python 3.
 Installation
 1. Clone repository:
-git clone [YOUR_REPOSITORY_URL]
-cd [repository_name]
+git clone https://github.com/voilentpiggy13/-25BAI11304-Expense-Tracker/tree/main
+name- Expense Tracker
 
-2.	Execute the script:
-python your_script_name.py
-# (Replace 'your_script_name.py' with the actual filename if different)
+3.	Execute the script:
+python vithyarthi project.py
+
 
 
 Running the Application
